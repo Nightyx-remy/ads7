@@ -1,0 +1,4 @@
+/home/remy/Documents/ads7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/remy/Documents/ads7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/remy/Documents/ads7/cmake-build-debug/CMakeFiles/letters_counting.dir
+/home/remy/Documents/ads7/cmake-build-debug/CMakeFiles/words_counting.dir

@@ -1,0 +1,6 @@
+/home/remy/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/213.7172.20/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/remy/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/213.7172.20/bin/ninja/linux/ninja -G Ninja /home/remy/Documents/ads7
+Setting properties of words_counting
+Setting properties of letters_counting
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/remy/Documents/ads7/cmake-build-debug
